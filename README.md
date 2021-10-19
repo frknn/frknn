@@ -8,7 +8,7 @@
 
 - 👨‍💻 My personal website [https://furkansetbasi.netlify.app/](https://furkansetbasi.netlify.app/)
 
-- 📝 (Turkish) I have an article about GraphQL on [https://frknstbs.medium.com/](https://frknstbs.medium.com/)
+- 📝 (Turkish) I have two articles on [https://frknstbs.medium.com/](https://frknstbs.medium.com/)
 
 - 📫 How to reach me **frknstbs@gmail.com**
 
