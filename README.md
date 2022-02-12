@@ -2,9 +2,7 @@
 <h3 align="center">I am a software developer who tries to create clean, understandable and maintainable software.</h3>
 
 
-- 🌱 I’m currently learning **.NET and software architecture.**
-
-- 💬 You can ask me about **React.**
+- 🌱 I’m currently learning **.NET, Go and software architecture.**
 
 - 👨‍💻 My personal website [https://furkansetbasi.netlify.app/](https://furkansetbasi.netlify.app/)
 
