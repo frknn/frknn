@@ -15,7 +15,6 @@
 <a href="https://dev.to/frknn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="frknn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/furkansetbasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkansetbasi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11928087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11928087" height="30" width="40" /></a>
-<a href="https://medium.com/@frknstbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@frknstbs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/frknstbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="frknstbs" height="30" width="40" /></a>
 </p>
 
@@ -60,13 +59,4 @@
 <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
-<a href="https://heroku.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a>
 </p>
-
-<div style="display: flex">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frknn&show_icons=true&locale=en" alt="frknn" /></p>
-<p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frknn&show_icons=true&locale=en&layout=compact" alt="frknn" /></p>
-</div>
